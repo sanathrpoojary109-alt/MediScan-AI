@@ -1,0 +1,9 @@
+SYNTHETIC SAMPLE — NOT A REAL PATIENT
+Complete Blood Count (illustrative values only)
+
+Haemoglobin: 13.5 g/dL (Reference range: 12.0–15.5 g/dL)
+WBC: 7.2 x10^3/uL (Reference range: 4.0–11.0 x10^3/uL)
+Platelets: 250 x10^3/uL (Reference range: 150–450 x10^3/uL)
+RBC: 4.6 x10^6/uL (Reference range: 4.0–5.2 x10^6/uL)
+
+This sample is fictional and is provided only to demonstrate the application.

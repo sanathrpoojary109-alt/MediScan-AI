@@ -1,0 +1,11 @@
+PROJECT SUBMISSION DETAILS
+
+Project Title: AI Medical Report Interpreter (MediScan AI)
+Student Name: Sanath Poojary
+Roll Number / USN: [ENTER YOUR FULL ROLL NUMBER / USN]
+GitHub Repository: [PASTE YOUR GITHUB REPOSITORY LINK]
+YouTube Demo Video: [PASTE YOUR YOUTUBE VIDEO LINK]
+
+Submission deadline: 6 November, 11:59 PM
+
+Note: Replace all bracketed placeholders before submitting.
