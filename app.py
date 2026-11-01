@@ -137,7 +137,7 @@ if st.button("Interpret my report", type="primary", disabled=not bool(report_tex
             st.session_state["mode"] = mode
             st.session_state["source_text"] = report_text
         except Exception as e:
-                            st.error(f"Gemini error: {type(e).__name__}: {e}")
+            st.error(f"Gemini error: {type(e).__name__}: {e}")
             st.session_state["explanation"] = local_summary(report_text)
             st.session_state["mode"] = "Basic fallback summary"
             st.session_state["source_text"] = report_text
