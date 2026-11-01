@@ -99,7 +99,7 @@ Rules:
 Report:
 {report_text[:24000]}
 """
-    response = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
+    response = client.models.generate_content(model="gemini-3.8-flash", contents=prompt)
     return response.text
 
 st.subheader("1. Add your medical report")
