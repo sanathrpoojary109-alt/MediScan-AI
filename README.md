@@ -61,19 +61,19 @@ These genuine screenshots were captured from a successful local run using the fi
 
 ### AI mode (Gemini), from top to end
 
-![Gemini run 1 of 7: sample report](screenshots/ai-mode-01.jpg)
+![Gemini run 1 of 7: sample report](screenshots/screenshot-01.jpg)
 
-![Gemini run 2 of 7: result mode and overview](screenshots/ai-mode-02.jpg)
+![Gemini run 2 of 7: result mode and overview](screenshots/screenshot-02.jpg)
 
-![Gemini run 3 of 7: test-by-test explanation](screenshots/ai-mode-03.jpg)
+![Gemini run 3 of 7: test-by-test explanation](screenshots/screenshot-03.jpg)
 
-![Gemini run 4 of 7: out-of-range context](screenshots/ai-mode-04.jpg)
+![Gemini run 4 of 7: out-of-range context](screenshots/screenshot-04.jpg)
 
-![Gemini run 5 of 7: questions for a clinician](screenshots/ai-mode-05.jpg)
+![Gemini run 5 of 7: questions for a clinician](screenshots/screenshot-05.jpg)
 
-![Gemini run 6 of 7: limitations](screenshots/ai-mode-06.jpg)
+![Gemini run 6 of 7: limitations](screenshots/screenshot-06.jpg)
 
-![Gemini run 7 of 7: closing safety notice](screenshots/ai-mode-07.jpg)
+![Gemini run 7 of 7: closing safety notice](screenshots/screenshot-07.jpg)
 
 ## Suggested demo video (under 5 minutes)
 
