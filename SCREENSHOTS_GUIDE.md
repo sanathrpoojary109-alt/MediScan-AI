@@ -1,0 +1,3 @@
+# Screenshot checklist
+
+Run the app with `streamlit run app.py`. Capture genuine screenshots of (1) the home screen, (2) a fictional report loaded, (3) the interpretation result, and (4) the download option. Save PNG files in `screenshots/` as `home.png`, `input.png`, `result.png`, and `download.png`. On Windows use `Win + Shift + S`. Use only fictional sample data; never show real patient details or API keys. Add the screenshots to the repository and embed them in README.md using relative paths such as `![Home](screenshots/home.png)`. Do not fabricate screenshots.
