@@ -53,15 +53,27 @@ The browser should open the app at the local address shown in the terminal.
 
 ## Screenshots
 
-Both screenshots below were captured from successful local runs with fictional sample data. The AI result used Gemini; the basic summary works without an API key. No API key or real patient information is shown.
+These genuine screenshots were captured from a successful local run using the fictional sample report. The Gemini result is split into consecutive screens so you can follow it from the sample input to the final safety notice. The API key is not shown.
 
 ### Basic mode (no API key)
 
 ![Basic no-key summary](screenshots/basic-mode.jpg)
 
-### AI mode (Gemini)
+### AI mode (Gemini), from top to end
 
-![AI-assisted Gemini interpretation](screenshots/ai-mode.jpg)
+![Gemini run 1 of 7: sample report](screenshots/ai-mode-01.jpg)
+
+![Gemini run 2 of 7: result mode and overview](screenshots/ai-mode-02.jpg)
+
+![Gemini run 3 of 7: test-by-test explanation](screenshots/ai-mode-03.jpg)
+
+![Gemini run 4 of 7: out-of-range context](screenshots/ai-mode-04.jpg)
+
+![Gemini run 5 of 7: questions for a clinician](screenshots/ai-mode-05.jpg)
+
+![Gemini run 6 of 7: limitations](screenshots/ai-mode-06.jpg)
+
+![Gemini run 7 of 7: closing safety notice](screenshots/ai-mode-07.jpg)
 
 ## Suggested demo video (under 5 minutes)
 
