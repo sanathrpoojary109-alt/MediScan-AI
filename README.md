@@ -2,6 +2,7 @@
 
 A student project prototype that helps users understand the wording and values in medical reports.
 
+**Student name:** Sanath R Poojary  
 **Student roll number:** 25BTRA0038  
 **GitHub repository:** https://github.com/sanathrpoojary109-alt/MediScan-AI
 
@@ -52,9 +53,15 @@ The browser should open the app at the local address shown in the terminal.
 
 ## Screenshots
 
-The app was run locally with a fictional sample report. The screenshot below shows the basic no-key summary mode. Do not upload real patient information or API keys.
+Both screenshots below were captured from successful local runs with fictional sample data. The AI result used Gemini; the basic summary works without an API key. No API key or real patient information is shown.
+
+### Basic mode (no API key)
 
 ![Basic no-key summary](screenshots/basic-mode.jpg)
+
+### AI mode (Gemini)
+
+![AI-assisted Gemini interpretation](screenshots/ai-mode.jpg)
 
 ## Suggested demo video (under 5 minutes)
 
