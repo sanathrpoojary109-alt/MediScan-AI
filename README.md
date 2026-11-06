@@ -57,7 +57,7 @@ These genuine screenshots were captured from a successful local run using the fi
 
 ### Basic mode (no API key)
 
-![Basic no-key summary](screenshots/basic-mode.jpg)
+![Basic no-key summary](screenshots/screenshot-basic.jpg)
 
 ### AI mode (Gemini), from top to end
 
