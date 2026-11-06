@@ -75,4 +75,4 @@ See [DEMO_VIDEO_SCRIPT.md](DEMO_VIDEO_SCRIPT.md) for the script and recording ch
 
 ## Submission details
 
-See [SUBMISSION_DETAILS.md](SUBMISSION_DETAILS.md). The student's full name and the uploaded YouTube demo URL must be supplied by the student.
+See [SUBMISSION_DETAILS.md](SUBMISSION_DETAILS.md). The student's name and roll number are recorded in the submission document. The real YouTube demo URL must be added after recording and uploading the video.
