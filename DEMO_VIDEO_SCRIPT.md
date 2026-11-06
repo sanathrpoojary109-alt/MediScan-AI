@@ -1,7 +1,7 @@
 # MediScan AI — Demo Video Script (3–4 minutes)
 
 ## 0:00–0:25 — Introduction
-"Hello, my name is [Your Name], roll number 25BTRA0038. My project is MediScan AI, an AI Medical Report Interpreter. It aims to make medical report wording easier to understand."
+"Hello, my name is Sanath R Poojary, roll number 25BTRA0038. My project is MediScan AI, an AI Medical Report Interpreter. It aims to make medical report wording easier to understand."
 
 ## 0:25–0:55 — Problem and solution
 "Medical reports often contain technical terms and laboratory values. This application lets a user upload a report or paste report text and receive a plain-language explanation."
