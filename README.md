@@ -46,9 +46,9 @@ The browser should open the app at the local address shown in the terminal.
 
 - Create a Google Gemini API key in Google AI Studio.
 - Run the app and paste the key into the **Google Gemini API key** field in the sidebar.
-- The app is configured to use `gemini-3.8-flash`. Google currently lists this model ID in its Gemini API model guide.
+- The app is configured to use `gemini-3.5-flash`, a stable model listed in Google's [Gemini API model guide](https://ai.google.dev/gemini-api/docs/models). The Gemini explanation flow was locally verified with fictional sample data.
 - Never commit API keys or real patient reports to GitHub.
-- Without a key, the app uses its basic local text summary. A live Gemini request requires a valid key and was not part of local verification.
+- Without a key, the app uses its basic local text summary. Never commit API keys or real patient reports to GitHub.
 
 ## Screenshots
 
