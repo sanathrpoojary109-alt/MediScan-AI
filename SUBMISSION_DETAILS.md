@@ -1,6 +1,6 @@
 # Project Submission
 
-**Name:** Awaiting confirmation from the student  
+**Name:** Sanath R Poojary  
 **Roll Number:** 25BTRA0038  
 **Project Title:** AI Medical Report Interpreter  
 
@@ -14,6 +14,5 @@ MediScan AI is a student project prototype that extracts text from PDF, TXT, and
 This application provides educational information only. It is not a medical device, does not diagnose, and must not be used to make treatment or medication decisions. Users should discuss reports with a qualified healthcare professional.
 
 ## Final steps for the student
-1. Confirm the full name to appear on the submission.
-2. Record and upload the demo video (maximum 5 minutes) using the checklist in [DEMO_VIDEO_SCRIPT.md](DEMO_VIDEO_SCRIPT.md).
-3. Replace the YouTube status above with the real uploaded video URL.
+1. Record and upload the demo video (maximum 5 minutes) using the checklist in [DEMO_VIDEO_SCRIPT.md](DEMO_VIDEO_SCRIPT.md).
+2. Replace the YouTube status above with the real uploaded video URL.
