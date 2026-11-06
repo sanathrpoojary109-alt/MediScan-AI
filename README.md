@@ -20,9 +20,9 @@ A student project prototype that helps users understand the wording and values i
 3. Create and activate a virtual environment:
 
    **Windows**
-   ```bash
+   ```powershell
    python -m venv .venv
-   .venv\\Scripts\\activate
+   .venv\Scripts\Activate.ps1
    ```
 
    **macOS/Linux**
@@ -46,30 +46,22 @@ The browser should open the app at the local address shown in the terminal.
 
 - Create a Google Gemini API key in Google AI Studio.
 - Run the app and paste the key into the **Google Gemini API key** field in the sidebar.
+- The app is configured to use `gemini-3.8-flash`. Google currently lists this model ID in its Gemini API model guide.
 - Never commit API keys or real patient reports to GitHub.
-- The app can still demonstrate report text extraction without an API key.
+- Without a key, the app uses its basic local text summary. A live Gemini request requires a valid key and was not part of local verification.
 
 ## Screenshots
 
-Capture genuine screenshots after running the application. Use the fictional `sample_report.txt` file in this repository.
-
-Save screenshots in a `screenshots/` folder:
-- `screenshots/home.png` — application home screen
-- `screenshots/input.png` — fictional report loaded
-- `screenshots/result.png` — generated explanation
-- `screenshots/download.png` — download control
-
-See [SCREENSHOTS_GUIDE.md](SCREENSHOTS_GUIDE.md) for instructions. Do not upload real patient information or API keys. Add the images to GitHub before the final submission.
+The app was started locally and the basic summary flow was exercised with fictional sample values. Repository screenshots have not yet been added. Capture genuine screenshots using [SCREENSHOTS_GUIDE.md](SCREENSHOTS_GUIDE.md), save them in `screenshots/`, and embed them here after capture. Do not upload real patient information or API keys.
 
 ## Suggested demo video (under 5 minutes)
 
-1. Introduce the problem and project (30 seconds).
-2. Show the dashboard and upload the synthetic sample report (45 seconds).
-3. Click **Interpret my report** and show the result (90 seconds).
-4. Explain the output and download option (60 seconds).
-5. Explain the technology stack and safety limitations (45 seconds).
+1. Introduce the project and its goal (20 seconds).
+2. Paste or upload the synthetic report and run the basic interpretation (60 seconds).
+3. Explain the output and show the download option (45 seconds).
+4. Describe the technology and safety limitations (45 seconds).
 
-See [DEMO_VIDEO_SCRIPT.md](DEMO_VIDEO_SCRIPT.md) for a ready-to-read script.
+See [DEMO_VIDEO_SCRIPT.md](DEMO_VIDEO_SCRIPT.md) for the script and recording checklist.
 
 ## Important limitations and responsible use
 
@@ -83,6 +75,4 @@ See [DEMO_VIDEO_SCRIPT.md](DEMO_VIDEO_SCRIPT.md) for a ready-to-read script.
 
 ## Submission details
 
-- **Roll number:** 25BTRA0038
-- **Student name:** To be filled in by the student
-- **YouTube demo:** Add the uploaded video URL to [SUBMISSION_DETAILS.md](SUBMISSION_DETAILS.md)
+See [SUBMISSION_DETAILS.md](SUBMISSION_DETAILS.md). The student's full name and the uploaded YouTube demo URL must be supplied by the student.
