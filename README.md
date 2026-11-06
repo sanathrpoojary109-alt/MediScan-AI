@@ -52,7 +52,9 @@ The browser should open the app at the local address shown in the terminal.
 
 ## Screenshots
 
-The app was started locally and the basic summary flow was exercised with fictional sample values. Repository screenshots have not yet been added. Capture genuine screenshots using [SCREENSHOTS_GUIDE.md](SCREENSHOTS_GUIDE.md), save them in `screenshots/`, and embed them here after capture. Do not upload real patient information or API keys.
+The app was run locally with a fictional sample report. The screenshot below shows the basic no-key summary mode. Do not upload real patient information or API keys.
+
+![Basic no-key summary](screenshots/basic-mode.jpg)
 
 ## Suggested demo video (under 5 minutes)
 
