@@ -6,6 +6,10 @@ A student project prototype that helps users understand the wording and values i
 **Student roll number:** 25BTRA0038  
 **GitHub repository:** https://github.com/sanathrpoojary109-alt/MediScan-AI
 
+## Live app
+
+[Open MediScan AI](https://vgftzvzjjghu.streamlit.app/)
+
 ## Features
 - Upload PDF and TXT reports, or paste report text.
 - Optional image OCR (requires Tesseract installed on the host).
