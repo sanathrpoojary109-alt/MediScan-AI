@@ -8,7 +8,7 @@ A student project prototype that helps users understand the wording and values i
 
 ## Live app
 
-[Open MediScan AI](https://vgftzvzjjghu.streamlit.app/)
+[Open MediScan AI](https://mediscan-ai-hxobfmamgkvgftzvzjjghu.streamlit.app/)
 
 ## Features
 - Upload PDF and TXT reports, or paste report text.
